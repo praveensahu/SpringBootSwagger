@@ -1,0 +1,7 @@
+com\speakingclock\constant\SpeakingClockConstant.class
+com\speakingclock\SpeakingClock.class
+com\speakingclock\exception\SpeakingClockGlobalExceptionHandler.class
+com\speakingclock\controller\SpeakingClockController.class
+com\speakingclock\service\SpeakingClockService.class
+com\speakingclock\util\NumberToWordsConverter.class
+com\speakingclock\SwaggerConfig.class
